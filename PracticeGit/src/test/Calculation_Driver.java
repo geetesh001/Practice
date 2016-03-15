@@ -10,9 +10,10 @@ public class Calculation_Driver {
 		int add = cal.add(a, b);
 		int substract = cal.substract(a, b);
 		
-		System.out.println(add+ "   "+substract);
-		System.out.println("Hello world");
+		System.out.println("Addition of two number : "+add);
+		System.out.println("Substraction of two number : "+substract);
 		
+		System.out.println("Hello world");
 		System.out.println("hi how you doing");
 		
 	}
