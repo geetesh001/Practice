@@ -18,7 +18,7 @@ public class Calculation {
 	
 	public float divide(int a,int b)
 	{
-		float div=0;
+		float div=a/b;
 		return div;
 	}
 
