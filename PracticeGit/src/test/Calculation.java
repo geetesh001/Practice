@@ -15,5 +15,11 @@ public class Calculation {
 		sub=a-b;
 		return sub;
 	}
+	
+	public float divide(int a,int b)
+	{
+		float div=a/b;
+		return div;
+	}
 
 }
